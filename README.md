@@ -34,4 +34,4 @@ See RELEASE_NOTES.md or the release page: https://github.com/nanglister-git/HebE
 Contributions welcome. Add a CONTRIBUTING.md and open issues or pull requests. Label "good first issue" for easy starters.
 
 ## License
-Add a LICENSE file to make this clear (MIT recommended if you want permissive).
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
