@@ -20,12 +20,12 @@ python -m pip install -e .
 ## Usage (example)
 
 # Command-line example
-hebengconv --input "שלום" --to en
+hebengconv --input "akuo" --to he "שלום"
 
 # Library example (Python)
 from hebengconv import Converter
 c = Converter()
-print(c.to_english('שלום'))
+print(c.to_english('יקךךם'))
 
 ## Release notes
 See RELEASE_NOTES.md or the release page: https://github.com/nanglister-git/HebEngConv/releases/tag/v1.0.0
